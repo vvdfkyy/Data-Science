@@ -1,0 +1,4 @@
+*.csv
+lab4/household_power_consumption.txt
+lab4/automobile/
+*.txt
